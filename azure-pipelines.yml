@@ -7,7 +7,7 @@ trigger:
 - dev
 
 pool:
-  name: 'kycnexynpuwejl'
+  name: 'Default'
 
 variables:
   solution: '**/*.sln'
